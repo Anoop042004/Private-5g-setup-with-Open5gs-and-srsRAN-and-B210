@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Private-5g
 Setting up a real time 5g network using **Open5gs** as core and **srsRAN** as RAN which is connected to real 5G COTS Devices (**5G Mobiles**) using **USRP B210** as BASE Satation
 
@@ -22,3 +23,7 @@ Setting up a real time 5g network using **Open5gs** as core and **srsRAN** as RA
   6. Configuring COTS UE (5G Mobile Phone).
   7. Checking connectivity. 
 ```
+=======
+# Private-5g-setup-with-Open5gs-and-srsRAN-and-B210
+Built a Private 5G test bed  Using Open 5Gs as core ,srsRAN as RAN and USRPB210 as base station  for Intelligent Data  Offloading Using 
+>>>>>>> 556cca72ef638bdaa868b7c9f8dad4275b8d1124
